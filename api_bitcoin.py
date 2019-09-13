@@ -13,3 +13,5 @@ json = response.json()
 valor = json ['bpi']['BR']['rate']
 
 print('O valor atual do bitcoin é: R$' + valor)
+
+#json criado em: http://www.json-generator.com.
